@@ -1,0 +1,17 @@
+%row {
+    display: flex;
+    flex-direction: row;
+}
+
+%column {
+    display: flex;
+    flex-direction: column;
+}
+
+@mixin text($color,$fs,$mt) {
+    color: $color;
+    font-size: $fs;
+    margin-top: $mt;
+    font-weight: 500;
+    margin-bottom: 0;
+}

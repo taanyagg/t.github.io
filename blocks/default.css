@@ -1,0 +1,12 @@
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Raleway";
+  background-color: #F4F6F5;
+}
+
+:link:hover {
+  font-weight: 600;
+}/*# sourceMappingURL=default.css.map */

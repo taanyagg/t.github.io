@@ -1,0 +1,44 @@
+.banner {
+  margin: 0 10% 3% 10%;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.head {
+  width: 50%;
+  float: left;
+  vertical-align: middle;
+  margin-right: 1%;
+}
+
+.zag {
+  margin-top: 10%;
+}
+
+.str1 {
+  color: #2C2D35;
+  font-weight: 500;
+  font-size: 60px;
+  margin-bottom: 1%;
+}
+
+.str2 {
+  font-weight: 500;
+  font-size: 18px;
+  color: #86928B;
+  margin-bottom: 7%;
+}
+
+.button {
+  color: #598D66;
+  font-weight: 500;
+  font-size: 20px;
+  padding: 21px 60px 21px 60px;
+  border: solid 1px #598D66;
+  width: -moz-fit-content;
+  width: fit-content;
+  text-decoration: none;
+}/*# sourceMappingURL=banner.css.map */

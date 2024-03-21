@@ -1,0 +1,110 @@
+.grid {
+    margin: 0 10% 3% 10%;
+}
+.row {
+    @extend %row
+}
+.column {
+    @extend %column
+}
+.str3 {
+    color: #2C2D35;
+    font-weight: 500;
+    font-size: 40px;
+    margin-right: 35%;
+}
+
+.countries {
+    flex-wrap: wrap;
+    margin-top: 4%;
+}
+.france {
+    color: #F4F6F5;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    border: solid 1px #376B44;
+    background-color: #376B44;
+    border-radius: 20px;
+    width: fit-content;
+    text-decoration: none;
+    margin-right: 32px;
+    align-self: center;
+    display: inline-block;
+}
+.germany {
+    color: #2C2D35;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    border: solid 1px #D4E8D9;
+    background-color: #D4E8D9;
+    border-radius: 20px;
+    width: fit-content;
+    text-decoration: none;
+    margin-right: 32px;
+    align-self: center;
+    display: inline-block;
+}
+.england {
+    color: #2C2D35;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 20px 10px 20px;
+    border: solid 1px #D4E8D9;
+    background-color: #D4E8D9;
+    border-radius: 20px;
+    width: fit-content;
+    text-decoration: none;
+    margin-right: 32px;
+    align-self: center;
+    display: inline-block;
+}
+
+.goods {
+    justify-content:space-between;
+    width: 100%;
+    flex-wrap: wrap;
+}
+.paint {
+    padding: 20px;
+    background-color: #E1EDE6;
+    margin-bottom: 3%;
+    flex-wrap: wrap;
+}
+.artist {
+    color: #86928B;
+    font-weight: 500;
+    font-size: 18px;
+    margin-bottom: 2%;
+}
+.naming {
+    color: #2C2D35;
+    font-weight: 500;
+    font-size: 30px;
+    margin-top: 0;
+    margin-bottom: 2%;
+}
+.material {
+    color: #2C2D35;
+    font-weight: 500;
+    font-size: 18px;
+    margin-top: 0;
+    margin-bottom: 5%;
+}
+.price {
+    color: #598D66;
+    font-weight: 500;
+    font-size: 24px;
+    margin-top: 0;
+}
+.basket {
+    color: #598D66;
+    font-weight: 500;
+    font-size: 20px;
+    border: solid 1px #598D66;
+    padding: 20px 60px 20px 60px;
+    text-decoration: none;
+    text-align: center;
+    display: inline-block;
+}

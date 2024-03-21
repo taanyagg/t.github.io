@@ -1,0 +1,39 @@
+header {
+    background-color: #E1EDE6;
+}
+.row {
+    @extend %row
+}
+.linia {
+    align-items: center;
+    justify-content:space-between;
+    padding: 1% 10% 1% 10%;
+}
+.log {
+    align-items: center;
+    justify-content:space-between;
+}
+.name {
+    font-weight: 700;
+    font-size: 20px;
+    color: #598D66;
+    margin-left: 5%;
+}
+.menu {
+    display: flex;
+    flex-direction: row;
+}
+.menu .left {
+    margin-left: 48px;
+    margin-right: 1050px;
+}
+.menu .left .button {
+    border: solid black 1px;
+}
+.m {
+    font-weight: 500;
+    font-size: 20px;
+    text-decoration: none;
+    color: #2C2D35;
+    padding-right: 58px;
+}

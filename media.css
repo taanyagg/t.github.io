@@ -1,0 +1,328 @@
+@media(max-width:1200px) {
+    .menu {
+        text-align: center;
+    }
+    .logo1 {
+        display: block;
+        margin: auto;
+    }
+    .name {
+        text-align: center;
+    }
+    .m {
+        font-size: 18px;
+        padding-right: 50px;
+    }
+    .head {
+        width: 40%;
+    }
+    .zag {
+        margin-top: 7%;
+    }
+    .str1 {
+        font-size: 50px;
+    }
+    .str2 {
+        font-size: 16px;
+    }
+    .button {
+        font-size: 16px;
+    }
+    .str3 {
+        font-size: 36px;
+        margin-right: 20%;
+    }
+    .paint {
+        align-self: center;
+    }
+    .artist {
+        font-size: 16px;
+        margin-bottom: 1%;
+    }
+    .naming {
+        font-size: 24px;
+        margin-bottom: 1%;
+    }
+    .material {
+        font-size: 16px;
+        margin-bottom: 3%;
+    }
+    .price {
+        font-size: 20px;
+    }
+    .basket {
+        font-size: 18px;
+    }
+    .france {
+        font-size: 18px;
+        margin-right: 20px;
+    }
+    .germany {
+        font-size: 18px;
+        margin-right: 20px;
+    }
+    .england {
+        font-size: 18px;
+    }
+    .newcol {
+        font-size: 30px;
+    }
+    .txt {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .yel {
+        font-size: 16px;
+    }
+    .our {
+        font-size: 36px;
+    }
+    .txt2 {
+        font-size: 16px;
+        margin-bottom: 2%;
+    }
+    .people {
+        width: 50%;
+    }
+    .number {
+        font-size: 12px;
+        margin-top: 4%;
+    }
+    .mast {
+        font-size: 14px;
+        margin-top: 1%;
+    }
+    .fir {
+        font-size: 14px;
+    }
+    .dr {
+        font-size: 12px;
+        margin-top: 5%;
+    }
+    .mini {
+        font-size: 10px;
+    }
+}
+
+@media(max-width:815px) {
+    .head {
+        width: 30%;
+    }
+    .zag {
+        margin-top: 5%;
+    }
+    .str1 {
+        font-size: 40px;
+    }
+    .str2 {
+        font-size: 14px;
+    }
+    .button {
+        font-size: 14px;
+    }
+    .str3 {
+        font-size: 20px;
+        margin-right: 15%;
+    }
+    .artist {
+        font-size: 14px;
+        margin-bottom: 1%;
+    }
+    .naming {
+        font-size: 24px;
+        margin-bottom: 1%;
+    }
+    .material {
+        font-size: 14px;
+        margin-bottom: 3%;
+    }
+    .price {
+        font-size: 20px;
+    }
+    .basket {
+        font-size: 16px;
+    }
+    .france {
+        font-size: 16px;
+        margin-right: 15px;
+    }
+    .germany {
+        font-size: 16px;
+        margin-right: 15px;
+    }
+    .england {
+        font-size: 16px;
+    }
+    .cont {
+        margin: 5% 35% 3% 10%;
+    }
+    .newcol {
+        font-size: 24px;
+    }
+    .txt {
+        font-size: 14px;
+        line-height: 17px;
+    }
+    .yel {
+        font-size: 14px;
+    }
+    .frame {
+        width: 40%;
+    }
+    .our {
+        font-size: 32px;
+    }
+    .txt2 {
+        font-size: 14px;
+        margin-bottom: 2%;
+    }
+}
+
+@media(max-width:600px) {
+    .head {
+        display: none;
+    }
+    .zag {
+        margin-top: 3%;
+    }
+    .str1 {
+        font-size: 36px;
+    }
+    .str2 {
+        font-size: 12px;
+    }
+    .button {
+        font-size: 14px;
+    }
+    .str3 {
+        font-size: 24px;
+        margin-right: 12%;
+    }   
+    .france {
+        font-size: 12px;
+        margin-right: 10px;
+    }
+    .germany {
+        font-size: 12px;
+        margin-right: 10px;
+    }
+    .england {
+        font-size: 12px;
+    }
+    .cont {
+        margin: 5% 20% 3% 10%;
+    }
+    .newcol {
+        font-size: 22px;
+    }
+    .txt {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .yel {
+        font-size: 12px;
+    }
+    .our {
+        font-size: 30px;
+    }
+    .txt2 {
+        font-size: 12px;
+        margin-bottom: 2%;
+    }
+    .number {
+        font-size: 14px;
+        margin-top: 4%;
+    }
+    .mast {
+        font-size: 12px;
+        margin-top: 2%;
+    }
+    
+    .fir {
+        font-size: 14px;
+    }
+    .dr {
+        font-size: 12px;
+        margin-top: 4%;
+    }
+    
+    .social {
+        margin-right: 10%;
+        margin-left: 7%;
+        margin-top: 1%;
+    }
+    .mini {
+        font-size: 10px;
+    }
+}
+
+@media(max-width:375px) {
+    .head {
+        display: none;
+    }
+    .zag {
+        margin-top: 2%;
+    }
+    .str1 {
+        font-size: 32px;
+    }
+    .str2 {
+        font-size: 10px;
+    }
+    .button {
+        font-size: 12px;
+    }
+    .str3 {
+        font-size: 20px;
+        margin-right: 10%;
+    }
+    .artist {
+        font-size: 12px;
+        margin-bottom: 1%;
+    }
+    .naming {
+        font-size: 20px;
+        margin-bottom: 1%;
+    }
+    .material {
+        font-size: 12px;
+        margin-bottom: 3%;
+    }
+    .price {
+        font-size: 18px;
+    }
+    .basket {
+        font-size: 14px;
+    }
+    .france {
+        font-size: 16px;
+        margin-right: 10px;
+    }
+    .germany {
+        font-size: 14px;
+        margin-right: 10px;
+    }
+    .england {
+        font-size: 14px;
+    }
+    .cont {
+        margin: 5% 20% 3% 10%;
+    }
+    .newcol {
+        font-size: 22px;
+    }
+    .txt {
+        font-size: 12px;
+        line-height: 15px;
+    }
+    .yel {
+        font-size: 12px;
+    }
+    .our {
+        font-size: 30px;
+    }
+    .txt2 {
+        font-size: 12px;
+        margin-bottom: 2%;
+    }
+}

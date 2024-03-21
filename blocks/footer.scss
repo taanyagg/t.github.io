@@ -1,0 +1,36 @@
+.footer {
+    background-color: #E1EDE6;
+}
+.down {
+    margin: 3% 10% 0% 10%;
+}
+.cc {
+    margin-right: 10%;
+}
+.log2 {
+    align-items: center;
+}
+.number {
+    @include text(#2C2D35,15px,6%);
+}
+.mast {
+    @include text(#86928B,18px,3%);
+}
+
+.fir {
+    @include text(#86928B,18px,0%);
+    text-decoration: none;
+}
+.dr {
+    @include text(#86928B,16px,8%);
+    text-decoration: none;
+}
+
+.social {
+    margin-right: 150px;
+    margin-left: 15%;
+    margin-top: 2%;
+}
+.mini {
+    @include text(#86928B,12px,1%);
+}
